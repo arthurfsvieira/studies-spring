@@ -7,8 +7,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/hello-word")
 public class HelloWordController {
+
+    
+
     @GetMapping
-    public String helloword(){
+    public String helloWord(){
         return "Acessando a página do Spring pelo endereço: localhost:8080/hello-word";
     }
 }
