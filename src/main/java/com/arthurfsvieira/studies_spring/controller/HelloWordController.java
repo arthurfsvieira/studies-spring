@@ -8,10 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/hello-word")
 public class HelloWordController {
 
-    
-
     @GetMapping
     public String helloWord(){
-        return "Acessando a página do Spring pelo endereço: localhost:8080/hello-word";
+        return "Acessando a página do Spring pelo endereço: localhost:3000/hello-word";
     }
 }
