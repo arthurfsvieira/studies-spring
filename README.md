@@ -1,5 +1,6 @@
 # studies-spring
 PRIMEIROS PASSOS
+
 Para configurar um projeto Spring podemos utilizar o https://start.spring.io/ que ajuda a criar toda a estrutura de um projeto e suas dependências personalizadas.
 
 A anotação `@SpringBootApplication` é uma **anotação composta** usada no Spring Boot para configurar e inicializar automaticamente uma aplicação Spring Boot. Ela simplifica a configuração e evita a necessidade de definir múltiplas anotações para configurar uma aplicação Spring Boot. Vamos detalhar o que ela faz:
