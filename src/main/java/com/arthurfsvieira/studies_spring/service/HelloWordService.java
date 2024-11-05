@@ -5,6 +5,6 @@ import org.springframework.stereotype.Service;
 @Service
 public class HelloWordService {
     public String helloWord(String name){
-        return "Hello Video!" + name;
+        return "Hello World! My name is " + name;
     }
 }
