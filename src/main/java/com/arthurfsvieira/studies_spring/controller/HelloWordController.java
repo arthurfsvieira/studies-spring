@@ -19,3 +19,4 @@ public class HelloWordController {
     }
 }
 //iniciar projeto daqui
+//controllers permitem adicinar end points para minhas classes 
