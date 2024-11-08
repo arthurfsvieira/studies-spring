@@ -83,3 +83,4 @@ Neste caso, a URL `"/api/usuarios"` mapeia o método `getUsuarios`, e o tipo de 
 
 - **`@RestController`**: Configura a classe como um controller REST que lida com APIs.
 - **`@RequestMapping`**: Define o mapeamento das URLs para a classe ou métodos, permitindo criar rotas e endpoints organizados para manipular as requisições.
+-next steps: fix controller connection 
