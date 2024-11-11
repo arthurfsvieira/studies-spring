@@ -18,5 +18,3 @@ public class HelloWordController {
         return helloWordService.helloWord("Arthur");
     }
 }
-//iniciar projeto daqui
-//controllers permitem adicinar end points para minhas classes 
